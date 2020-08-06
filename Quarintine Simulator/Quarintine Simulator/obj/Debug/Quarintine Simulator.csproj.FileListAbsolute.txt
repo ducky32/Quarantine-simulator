@@ -1,0 +1,10 @@
+C:\Users\Yrjölä\source\repos\Quarintine Simulator\Quarintine Simulator\bin\Debug\Quarintine Simulator.exe.config
+C:\Users\Yrjölä\source\repos\Quarintine Simulator\Quarintine Simulator\bin\Debug\Quarintine Simulator.exe
+C:\Users\Yrjölä\source\repos\Quarintine Simulator\Quarintine Simulator\bin\Debug\Quarintine Simulator.pdb
+C:\Users\Yrjölä\source\repos\Quarintine Simulator\Quarintine Simulator\obj\Debug\Quarintine Simulator.csprojAssemblyReference.cache
+C:\Users\Yrjölä\source\repos\Quarintine Simulator\Quarintine Simulator\obj\Debug\Quarintine_Simulator.Form1.resources
+C:\Users\Yrjölä\source\repos\Quarintine Simulator\Quarintine Simulator\obj\Debug\Quarintine_Simulator.Properties.Resources.resources
+C:\Users\Yrjölä\source\repos\Quarintine Simulator\Quarintine Simulator\obj\Debug\Quarintine Simulator.csproj.GenerateResource.cache
+C:\Users\Yrjölä\source\repos\Quarintine Simulator\Quarintine Simulator\obj\Debug\Quarintine Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Yrjölä\source\repos\Quarintine Simulator\Quarintine Simulator\obj\Debug\Quarintine Simulator.exe
+C:\Users\Yrjölä\source\repos\Quarintine Simulator\Quarintine Simulator\obj\Debug\Quarintine Simulator.pdb
